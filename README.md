@@ -20,5 +20,14 @@ Express
 passport
 passport-discord
 # If You Wanna Add Addons:
-https://forms.gle/DYKzqPUbQ9hYMLtJA
+https://forms.gle/DYKzqPUbQ9hYMLtJA\
+# Updates Log
+Update 1.0.0
+```
+Added The Addons To npmjs
+```
+Update 1.0.1
+```
+Added Some Wesite Addons
+```
 ## Thanks!
