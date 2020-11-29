@@ -1,5 +1,6 @@
-# all-discord.js-addons
+## all-discord.js-addons
 Meet All Discord.js Addons!
+[![NPM](https://nodei.co/npm/all-discord.js-addons.png)](https://nodei.co/npm/all-discord.js-addons/)
 # What We Can Do With This Addon?
 Actually This Addon Made To Get The Discord.js Development To Be Easier!
 # Example
@@ -11,7 +12,12 @@ Developer: Ok?
 # For Questions:
 MegaNoamSuper#7584 (The Name Is Arnon)
 # Addons
-Right Now The addons are discord.js And DerpyDB.
-If You Wanna Add Addons Write In The Form:
+Right Now The addons are:
+Discord.js
+derpydb
+Express
+passport
+passport-discord
+# If You Wanna Add Addons:
 https://forms.gle/DYKzqPUbQ9hYMLtJA
-# Thanks!
+## Thanks!
